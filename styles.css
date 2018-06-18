@@ -1,0 +1,13 @@
+#repos {
+    display: flex;
+    position: relative;
+}
+
+.margin {
+    
+    margin-left: 3rem;
+}
+
+.card {
+    display: flex;
+}
